@@ -6,7 +6,7 @@ import sys
 
 md_path = './content'
 tmp_path = './template.html'
-dest_path = "./doc"
+dest_path = "./docs"
         
 def main():
 
