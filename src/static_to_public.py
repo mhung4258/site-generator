@@ -27,7 +27,7 @@ def copy_dirr(source, destination):
 
 def static_to_public():
     source = "./static"
-    destination = "./public"
+    destination = "./docs"
     print(f'Cleaning Destination: {destination}')
     clean_destination(destination)
     print(f'Copying Files')
